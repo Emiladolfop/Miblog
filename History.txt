@@ -1,1 +1,5 @@
-Hola mundo Tengo 32 años y soy peruano. Exitoso
+Hola mundo Tengocode 32 años y soy peruano. Exitoso
+
+Aprendiendo Git
+
+Vamos en el decimo capitulo
